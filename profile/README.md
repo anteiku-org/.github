@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,45:1f060d,75:380c18,100:6b1226&height=230&section=header&text=ANTEIKU&fontFamily=Cinzel&fontSize=70&fontColor=f3d5b5&animation=fadeIn&fontAlignY=35&desc=あんていく+·+A+Sanctuary+Brewing+Open-Source+Creations&descAlignY=62&descSize=16&descColor=e09f67" width="100%" />
 </div>
