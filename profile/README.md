@@ -98,3 +98,33 @@ Pull up a chair. Order an espresso. Stay as long as the night allows.
   <img src="https://img.shields.io/badge/Dart-380c18?style=flat-square&logo=dart&logoColor=f3d5b5" />
   <img src="https://img.shields.io/badge/TypeScript-6b1226?style=flat-square&logo=typescript&logoColor=f3d5b5" />
   <img src="https://img.shields.io/badge/Node.js-1f060d?
+
+
+<!-- ╔═══════════════════════════════════════════╗
+     ║       SECTION 5 — THE STAFF               ║
+     ╚═══════════════════════════════════════════╝ -->
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/THE_STAFF-2a0812?style=flat-square&labelColor=2a0812" height="18" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Aoi-03">
+    <img src="https://github.com/Aoi-03.png" width="80" style="border-radius: 50%;" />
+  </a>
+  <br/>
+  <a href="https://github.com/Aoi-03">
+    <strong>Eyepatch</strong>
+  </a>
+  <br/>
+  <sub>Manager · Fullstack Architect · UI Artisan</sub>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Role-Manager-3d0c17?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ward-20th-1f060d?style=flat-square" />
+</div>
+
+<br/>
