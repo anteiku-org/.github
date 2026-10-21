@@ -1,18 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,45:1f060d,75:380c18,100:6b1226&height=230&section=header&text=ANTEIKU&fontFamily=Cinzel&fontSize=70&fontColor=f3d5b5&animation=fadeIn&fontAlignY=35&desc=あんていく+·+A+Sanctuary+Brewing+Open-Source+Creations&descAlignY=62&descSize=16&descColor=e09f67" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,45:1f060d,75:380c18,100:6b1226&height=220&section=header&text=ANTEIKU&fontFamily=Cinzel&fontSize=70&fontColor=f3d5b5&animation=fadeIn&fontAlignY=32&desc=あんていく+·+A+Sanctuary+Brewing+Open-Source+Creations&descAlignY=58&descSize=16&descColor=e09f67" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/anteiku-org">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=E09F67&center=true&vCenter=true&multiline=true&width=750&height=35&lines=Welcome+to+the+20th+Ward.;A+quiet+refuge+for+developers,+artists,+and+nocturnal+creators.;Freshly+brewed+software+in+a+world+divided." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=E09F67&center=true&vCenter=true&width=750&height=35&lines=Welcome+to+the+20th+Ward.;A+quiet+refuge+for+developers,+artists,+and+nocturnal+creators.;Freshly+brewed+software+in+a+world+divided." alt="Typing SVG" />
   </a>
 </div>
-<p align="center">
+
+<div align="center">
   <img src="https://img.shields.io/badge/Ward-20th_District-3d0c17?style=for-the-badge&logoColor=f3d5b5" />
   <img src="https://img.shields.io/badge/Atmosphere-Quiet_Sanctuary-1f060d?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coffee-Freshly_Brewed-6b1226?style=for-the-badge&logo=coffeescript&logoColor=f3d5b5" />
   <img src="https://img.shields.io/badge/Status-Open_Late-140307?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
@@ -32,7 +33,7 @@ Vibe       → Rain, Porcelain, Low-Fi Jazz, Midnight Code
 Specialty  → Premium Software, High-Energy Audio & Web
 ```
 
-### ☕ The House Philosophy
+### The House Philosophy
 
 Anteiku serves as a peaceful haven where different worlds coexist. We craft open-source tools, mobile platforms, and interactive experiences with quiet precision, elegant dark ergonomics, and zero compromises on performance or privacy.
 
@@ -47,7 +48,7 @@ Pull up a chair. Order an espresso. Stay as long as the night allows.
 
 ---
 
-## 📜 The Cafe Menu (Flagship Brews)
+## The Cafe Menu (Flagship Brews)
 
 <table width="100%" border="0" style="border: none; border-collapse: collapse;">
   <tr>
@@ -90,7 +91,7 @@ Pull up a chair. Order an espresso. Stay as long as the night allows.
 
 ---
 
-## 🫖 Pantry & Craft Ingredients (Tech Stack)
+## Pantry & Craft Ingredients (Tech Stack)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-1f060d?style=flat-square&logo=flutter&logoColor=f3d5b5" />
